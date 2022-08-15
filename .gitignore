@@ -1,0 +1,10 @@
+.history/**
+.ipynb_checkpoints/**
+amex/.ipynb_checkpoints/**
+amex/input/**
+amex/temp_data/**
+amex/memo/**
+
+titanic/.ipynb_checkpoints/**
+titanic/output/**
+titanic/Colab Notebooks/**
