@@ -1,5 +1,8 @@
 .history/**
 .ipynb_checkpoints/**
+
+books/**
+
 amex/.ipynb_checkpoints/**
 amex/input/**
 amex/temp_data/**
