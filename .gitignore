@@ -9,7 +9,7 @@ amex/temp_data/**
 amex/memo/**
 amex/work/**
 amex/output/**
-
+!**/.gitkeep
 titanic/.ipynb_checkpoints/**
 titanic/output/**
 titanic/Colab Notebooks/**
