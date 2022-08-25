@@ -1,7 +1,7 @@
 .history/**
 .ipynb_checkpoints/**
 
-# books/**
+books/**
 
 amex/.ipynb_checkpoints/**
 amex/input/**
