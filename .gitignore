@@ -11,5 +11,7 @@ amex/work/**
 amex/output/**
 !**/.gitkeep
 titanic/.ipynb_checkpoints/**
+titanic/input/**
 titanic/output/**
 titanic/Colab Notebooks/**
+
