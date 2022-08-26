@@ -1,17 +1,17 @@
 .history/**
 .ipynb_checkpoints/**
 
-books/**
+/books/**
 
-amex/.ipynb_checkpoints/**
-amex/input/**
-amex/temp_data/**
-amex/memo/**
-amex/work/**
-amex/output/**
-!**/.gitkeep
-titanic/.ipynb_checkpoints/**
-titanic/input/**
-titanic/output/**
-titanic/Colab Notebooks/**
+/amex/.ipynb_checkpoints/**
+/amex/input/**
+/amex/temp_data/**
+/amex/memo/**
+/amex/work/**
+/amex/output/*
+!*.gitkeep
+/titanic/.ipynb_checkpoints/**
+/titanic/input/**
+/titanic/output/**
+/titanic/Colab Notebooks/**
 
