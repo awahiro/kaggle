@@ -27,7 +27,7 @@ https://www.kaggle.com/competitions/amex-default-prediction
 
 # 特記事項
 - 初めてkaggleのコンペに参加しました（機械学習の学習を始めて２ヶ月時点）
-- 
+- そのため改善の余地は多々あると思います。
 
 # メモ
 
