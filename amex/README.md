@@ -25,10 +25,6 @@ https://www.kaggle.com/competitions/amex-default-prediction
 - /temp_data/h5/ <= 後続処理の時短のため中間処理データをH5ファイルとして保存する場所
 
 
-# 特記事項
-- 初めてkaggleのコンペに参加しました（機械学習の学習を始めて２ヶ月時点）
-- そのため改善の余地が多々あると思います。
-
 # メモ
 
 ## inputファイルの行数
