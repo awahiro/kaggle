@@ -27,10 +27,12 @@ https://www.kaggle.com/competitions/amex-default-prediction
 
 # メモ
 
-## inputファイルの容量と行数
+## inputファイルのサイズと行数
 
-test_data.csv           33GB 33,824,849,227rows
-train_data.csv          16GB 16,393,283,688rows
-train_labels.csv        31MB 30,747,190rows
-sample_submission.csv   62MB 924,622rows
+| ファイル名 | ファイルサイズ | 行数 |
+| --- | --- | --- | 
+| test_data.csv | 33GB | 33,824,849,227rows | 
+| train_data.csv | 16GB | 16,393,283,688rows | 
+| train_labels.csv | 31MB | 30,747,190rows | 
+| sample_submission.csv | 62MB | 924,622rows | 
 
